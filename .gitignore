@@ -1,0 +1,13 @@
+reference/
+assessment/
+archive/
+courseware/archive/
+.env
+.env.*
+*lms_tms_api_key*
+*.pem
+*.key
+node_modules/
+.venv/
+__pycache__/
+*.pyc

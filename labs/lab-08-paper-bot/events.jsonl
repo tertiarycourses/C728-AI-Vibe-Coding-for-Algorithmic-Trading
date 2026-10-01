@@ -1,0 +1,5 @@
+{"order_id": "demo-1", "quantity": 1, "status": "simulated"}
+{"order_id": "demo-1", "quantity": 1, "status": "duplicate"}
+{"order_id": "demo-2", "quantity": 1, "status": "stale"}
+{"order_id": "demo-3", "quantity": 11, "status": "limit"}
+{"order_id": "demo-4", "quantity": 1, "status": "halted"}

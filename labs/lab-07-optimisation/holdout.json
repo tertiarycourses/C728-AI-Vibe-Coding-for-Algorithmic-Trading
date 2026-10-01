@@ -1,0 +1,12 @@
+{
+  "selected_on_training": {
+    "fast": 30,
+    "slow": 60
+  },
+  "holdout_once": {
+    "total_return": 0.17887050265872695,
+    "sharpe_rf0": 1.304944083835781,
+    "max_drawdown": -0.07031352289112902,
+    "turnover": 3.0
+  }
+}
